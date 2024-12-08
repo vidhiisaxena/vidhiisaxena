@@ -17,11 +17,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/java.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="javascript" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/ProgrammingLanguages/javascript.svg" alt="javascript" width="40" height="40"/> </a>  <a href="bootstrap.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/bootstrap.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="css" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/css.svg" alt="CSS" width="40" height="40"/> </a> <a href="html" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/html.svg" alt="html" width="40" height="40"/> </a> <a href="react" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/reactjs.svg" alt="react.js" width="40" height="40"/> </a> <a href="tailwind.com" target="_blank" rel="noreferrer"> <img src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/FrontendDevelopment/tailwind.svg" alt="tailwind" width="40" height="40"/> </a></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhiisaxena&show_icons=true&locale=en&layout=compact" alt="khushi-pushkar" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vidhiisaxena&show_icons=true&locale=en&layout=compact" alt="vidhiisaxena" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiisaxena&show_icons=true&locale=en" alt="khushi-pushkar" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiisaxena&" alt="khushi-pushkar" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiisaxena&" alt="vidhiisaxena" /></p>
 
 ## Who am I?
  ``` python
@@ -44,7 +42,7 @@
 				# Assume 10 more awesome ambitions here  ;)
 
 ```
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiisaxena&show_icons=true&locale=en" alt="Vidhiisaxena" /></p>
   
 ## Current Works
  * Breaking into Machine Leanring !!
