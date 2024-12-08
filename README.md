@@ -24,24 +24,26 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vidhiisaxena&" alt="khushi-pushkar" /></p>
 
 ## Who am I?
- python
- class WhoAmI:
- 	user = 'Vidhi Saxena'
-		current_work = 'Writing code'
-		hobbies = [
-				'Singing',
-				'Reading Novels',
-				'Being up all Night chasing that ONE BUG...'
-			]
+ ``` python
+ 	class WhoAmI:
+ 		user = 'Vidhi Saxena'
+			current_work = 'Writing code'
+			hobbies = [
+					'Singing',
+					'Reading Novels',
+					'Being up all Night chasing that ONE BUG...'
+				]
 	
-def getCity():
-		return NewDelhi_India()
+		def getCity():
+			return NewDelhi_India()
 	
-def Ambitions():
-		LearnPersonalFinance()
-		FrenchLessons()
-		FinishMyNovel()
-		# Assume 10 more awesome ambitions here  ;)
+		def Ambitions():
+			LearnPersonalFinance()
+			FrenchLessons()
+			FinishMyNovel()
+			# Assume 10 more awesome ambitions here  ;)
+
+```
 
   
 ## Current Works
