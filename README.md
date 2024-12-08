@@ -49,7 +49,7 @@
 ## Current Works
  * Breaking into Machine Leanring !!
  * I'm currently working on 🔭 building **My Portfolio Website** and working up on my skills 🌱 in **Competitive Programming**.
- * - :octocat: [My Resume](https://drive.google.com/file/d/1VtzJcvjMjLfsHzO0cjKSmgkFhShVKsuG/view?usp=sharing)
+ * :octocat: [My Resume](https://drive.google.com/file/d/1VtzJcvjMjLfsHzO0cjKSmgkFhShVKsuG/view?usp=sharing)
 	
 
 
