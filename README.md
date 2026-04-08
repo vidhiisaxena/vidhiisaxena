@@ -24,7 +24,7 @@
 
 🥇 **Tech4Impact Hackathon Winner** — 1st / 2000+  
 🥈 **Hack n Solve** — 2nd / 5000+  
-✨ **HackTU 7.0**- MLH Track Winner / ElevenLabs
+✨ **HackTU 7.0**- MLH Track Winner / ElevenLabs   
 🚀 **Code Kshetra 2.0 Finalist** — Top 10 / 15,000+  
 🎓 **AWS AI/ML Scholar** — Top 2000 globally  
 
