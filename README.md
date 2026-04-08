@@ -1,79 +1,74 @@
-<h1 align="center">Hi 👋, I'm Vidhi Saxena</h1>
-<h3 align="center">Aspiring Software Developer from India 🇮🇳</h3>
+<h1 align="center">hi, i'm Vidhi 👋</h1>
+<h3 align="center">AI/ML + Full-Stack Engineer · B.Tech @ IGDTUW · Building real-world systems 🚀</h3>
 
----
-
-## 📫 Contact Me  
-**Email:** **vidhiisaxena076@gmail.com**
-
----
-
-## 🌐 Connect With Me  
-<p align="left">
-  <a href="https://www.linkedin.com/in/vidhi-saxena-86150a243/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
-  </a>
-  <a href="https://www.instagram.com/vidhiisaxena/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="40"/>
-  </a>
-  <a href="https://x.com/Vidhisaxena76" target="_blank">
-    <img src="https://skillicons.dev/icons?i=twitter" width="40"/>
-  </a>
-  <a href="https://www.behance.net/vidhisaxena76" target="_blank">
-    <img src="https://skillicons.dev/icons?i=behance" width="40"/>
-  </a>
+<p align="center">
+  <a href="mailto:vidhiisaxena076@gmail.com">Email</a> ·
+  <a href="https://www.linkedin.com/in/vidhi-saxena-86150a243/">LinkedIn</a> ·
+  <a href="https://x.com/Vidhisaxena76">Twitter</a> ·
+  <a href="https://github.com/vidhiisaxena">GitHub</a>
 </p>
 
 ---
 
-## 🛠️ Languages & Tools  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,html,css,tailwind,mysql" />
+## 🚀 about me
+
+🧠 AI/ML + Full-Stack developer focused on **production-grade systems**  
+🏗️ Built scalable ML + SaaS products with measurable impact  
+🔬 Research Intern @ DRDO — optimized warehouse efficiency by **15% using ML**  
+🏆 Hackathon Winner & Finalist across **20K+ participants combined**  
+🌙 I build, debug, and ship — consistently  
+
+---
+
+## 🏆 highlights
+
+🥇 **Tech4Impact Hackathon Winner** — 1st / 2000+  
+🥈 **Hack n Solve** — 2nd / 5000+  
+✨ **HackTU 7.0**- MLH Track Winner / ElevenLabs
+🚀 **Code Kshetra 2.0 Finalist** — Top 10 / 15,000+  
+🎓 **AWS AI/ML Scholar** — Top 2000 globally  
+
+---
+
+## 🛠️ tech stack
+
+**Languages**  
+`Python` · `C++` · `JavaScript` · `SQL`
+
+**Frameworks & Tools**  
+`React` · `Node.js` · `FastAPI` · `Tailwind` · `Bootstrap`
+
+**Databases**  
+`MongoDB` · `MySQL`
+
+**AI / ML**  
+`LLMs` · `RAG` · `FAISS` · `PyTorch` · `Embeddings`
+
+**Cloud & DevOps**  
+`AWS (EC2, S3, Lambda)` · `GitHub Actions` · `CI/CD`
+
+---
+
+## 📊 github stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vidhiisaxena&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=vidhiisaxena&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats  
-<div align="center">
+## 🧩 who am i?
 
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidhiisaxena&layout=compact&theme=tokyonight"/>
+```python
+class Vidhi:
+    def __init__(self):
+        self.role = "AI/ML + Full Stack Engineer"
+        self.focus = ["Building", "Scaling", "Learning"]
 
-<img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=vidhiisaxena&theme=tokyonight"/>
+    def current_mission(self):
+        return "Crack top internships & build impactful products 🚀"
 
-</div>
-
----
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vidhiisaxena&show_icons=true&locale=en" alt="Vidhiisaxena" /></p>
-
----
-
-## Who am I?
- ``` python
- 	class WhoAmI:
- 		user = 'Vidhi Saxena'
-		age = '20 y/o'
-			current_work = 'Writing code'
-			hobbies = [
-					'Singing',
-					'Reading Novels',
-					'Being up all Night chasing that ONE BUG...'
-				]
-	
-			def getCity():
-				return NewDelhi_India()
-	
-			def Ambitions():
-				LearnPersonalFinance()
-				FrenchLessons()
-				FinishMyNovel()
-				# Assume 10 more awesome ambitions here  ;)
-
+    def mindset(self):
+        return "Consistency > Motivation"
 ```
-  
-## Current Works
- * Making Machine Learning Models!!
- * I'm currently working up on my skills 🌱 in **Competitive Programming**.
- * :octocat: [My Resume](https://drive.google.com/file/d/1Ytw2-PNJM5LTRjYUKk4FcqVawQMQmwEV/view?usp=sharing)
-	
-
-
