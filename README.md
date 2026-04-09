@@ -52,7 +52,7 @@
 ## 📊 github stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=vidhiisaxena&show_icons=true&theme=tokyonight"/>
+  <img height="150" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=vidhiisaxena&type=languages&theme=tokyonight&chart=donut" alt="vidhiisaxena's Language stats"/>
   <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=vidhiisaxena&theme=tokyonight"/>
 </p>
 
